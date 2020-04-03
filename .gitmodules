@@ -4,3 +4,6 @@
 [submodule "reveald3"]
 	path = reveald3
 	url = https://github.com/gcalmettes/reveal.js-d3
+[submodule "simplemenu"]
+	path = simplemenu
+	url = https://github.com/Martinomagnifico/reveal.js-simplemenu.git
