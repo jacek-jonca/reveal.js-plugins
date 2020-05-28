@@ -4,3 +4,6 @@
 [submodule "reveald3"]
 	path = reveald3
 	url = https://github.com/gcalmettes/reveal.js-d3
+[submodule "multiplex"]
+	path = multiplex
+	url = https://github.com/jacek-jonca/multiplex.git
