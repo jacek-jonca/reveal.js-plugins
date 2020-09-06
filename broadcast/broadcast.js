@@ -86,7 +86,7 @@ var RevealBroadcast = window.RevealBroadcast || (function(){
         		video: true,
         		oneway: true
         	},
-		socketMessageEvent: 'reveal.js-broadcast-demo',
+		socketMessageEvent: 'joncadotorg-broadcast',
 		enableLogs: true
 	};
 
