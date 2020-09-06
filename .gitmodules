@@ -7,3 +7,6 @@
 [submodule "multiplex"]
 	path = multiplex
 	url = https://github.com/jacek-jonca/multiplex.git
+[submodule "broadcast"]
+	path = broadcast
+	url = https://github.com/jacek-jonca/broadcast.git
